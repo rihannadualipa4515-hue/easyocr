@@ -1,0 +1,14 @@
+{
+  "text_file": "data/text.txt",
+  "match_mode": "all",
+  "ocr_languages": [
+    "en"
+  ],
+  "use_gpu": false,
+  "min_word_length": 10,
+  "max_results": 500,
+  "answer_count": 3,
+  "answer_min_coverage": 0.5,
+  "monitor_clipboard": true,
+  "bring_to_front": true
+}

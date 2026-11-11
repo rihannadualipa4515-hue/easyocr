@@ -1,0 +1,11 @@
+.venv/
+models/
+screenshots/
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec
+finder.db
+settings.json
+app.log

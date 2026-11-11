@@ -1,0 +1,6 @@
+# Python 3.11+ (Windows 10/11)
+# PyTorch (CPU) is installed by setup_and_run.bat from the CPU wheel index - it is much smaller.
+easyocr>=1.7.1
+opencv-python-headless>=4.8
+Pillow>=10.0
+numpy>=1.24
